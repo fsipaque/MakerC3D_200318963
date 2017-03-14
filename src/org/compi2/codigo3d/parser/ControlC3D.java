@@ -8,7 +8,7 @@ public class ControlC3D {
     
     private static int temp = 0;
     private static String c3d = "";
-    private static int etq=1;
+    private static int etq=1; 
     
     /**
      * Reinicia las variables estáticas relacionadas con la generación del
